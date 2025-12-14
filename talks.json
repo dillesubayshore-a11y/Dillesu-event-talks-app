@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of JavaScript Frameworks",
+    "speakers": ["Jane Doe"],
+    "category": ["JavaScript", "Web Development", "Frontend"],
+    "duration": 60,
+    "description": "An in-depth look at the trends and future of popular JavaScript frameworks like React, Vue, and Angular."
+  },
+  {
+    "title": "Building Scalable APIs with GraphQL",
+    "speakers": ["John Smith"],
+    "category": ["API", "GraphQL", "Backend"],
+    "duration": 60,
+    "description": "Learn how to design and build scalable and efficient APIs using GraphQL, with a focus on performance and best practices."
+  },
+  {
+    "title": "Introduction to Machine Learning with Python",
+    "speakers": ["Emily White", "David Green"],
+    "category": ["Machine Learning", "Python", "Data Science"],
+    "duration": 60,
+    "description": "A beginner-friendly introduction to the world of machine learning using Python and popular libraries like Scikit-learn and TensorFlow."
+  },
+  {
+    "title": "DevOps for Dummies: CI/CD Pipelines Explained",
+    "speakers": ["Michael Brown"],
+    "category": ["DevOps", "CI/CD", "Automation"],
+    "duration": 60,
+    "description": "Understand the fundamentals of DevOps and learn how to build continuous integration and continuous delivery (CI/CD) pipelines from scratch."
+  },
+  {
+    "title": "The Art of UI/UX Design",
+    "speakers": ["Sarah Jones"],
+    "category": ["UI/UX", "Design", "Frontend"],
+    "duration": 60,
+    "description": "Discover the principles of great UI/UX design and learn how to create intuitive and user-friendly interfaces."
+  },
+  {
+    "title": "Cybersecurity in 2025: Threats and Mitigation",
+    "speakers": ["Chris Wilson", "Patricia Miller"],
+    "category": ["Cybersecurity", "Security", "Networking"],
+    "duration": 60,
+    "description": "An overview of the latest cybersecurity threats and how to protect your applications and infrastructure from them."
+  }
+]
